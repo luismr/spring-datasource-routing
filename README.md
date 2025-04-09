@@ -85,7 +85,7 @@ git clone git@github.com:luismr/spring-datasource-routing.git
 <dependency>
     <groupId>dev.luismachadoreis.blueprint</groupId>
     <artifactId>spring-datasource-routing</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>0.0.1</version>
 </dependency>
 ```
 
@@ -116,7 +116,7 @@ repositories {
 3. Add the dependency to your `build.gradle`:
 
 ```groovy
-implementation 'dev.luismachadoreis.blueprint:spring-datasource-routing:1.0.0-SNAPSHOT'
+implementation 'dev.luismachadoreis.blueprint:spring-datasource-routing:0.0.1'
 ```
 
 ## Usage
