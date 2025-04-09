@@ -13,7 +13,7 @@
     <artifactId>spring-datasource-routing</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-datasource-routing</name>
-    <description>Spring DataSource Routing for read-write splitting</description>
+    <description>Spring DataSource Routing is a lightweight framework for implementing read-write splitting pattern in Java Spring Boot applications, powered by Spring's AbstractRoutingDataSource.</description>
     <url>https://github.com/luismr/spring-datasource-routing</url>
 
     <properties>
