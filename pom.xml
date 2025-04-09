@@ -7,7 +7,7 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.4.4</version>
         <relativePath />
-    </parent>
+    </parent> 
 
     <groupId>dev.luismachadoreis.blueprint</groupId>
     <artifactId>spring-datasource-routing</artifactId>
